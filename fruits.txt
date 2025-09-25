@@ -1,4 +1,1 @@
 orange
-banana
-fruit_1
-fruit_2
